@@ -4,6 +4,42 @@
     
 }
 
+.header1{
+    color: #4d80ae;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.header2{
+    color: #4d80ae;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header3{
+    color: grey;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.borda {
+    border-width: medium;
+    border-style: solid;
+    border-color: grey
+    }
+
+.endereço{
+    text-align: center;
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.caixa{
+    font-size: 15px;
+    text-align: justify;
+    color: grey;
+}
 
 .center1{
     text-align: center;
@@ -13,6 +49,7 @@
 
 .justify{
     text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container{
@@ -31,15 +68,18 @@
 
 #menu li a{
     text-decoration: none;
-    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0856A1
 }
 
 #menu li a:hover{
-    color: rgb(243, 175, 5);
+    color: black;
 }
 
 .p30{
     padding: 30px;
+    color: grey;
+    font-size: 15px;
 }
 
 .tm-social{
@@ -52,6 +92,11 @@
     margin-bottom: 50px;
 }
 
+.copy{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black
+}
 /*Estilo da página contato.html*/
 
 .ml-50{
